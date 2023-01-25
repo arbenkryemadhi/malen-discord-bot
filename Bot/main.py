@@ -1,10 +1,9 @@
-import discord
-
-client = discord.Client()
-
-
 def main():
-    pass
+    import discord
+
+    client = discord.Client()
+
+    print("Test")
 
 
 if __name__ == "__main__":
