@@ -1,3 +1,8 @@
+import discord
+
+client = discord.Client()
+
+
 def main():
     pass
 
