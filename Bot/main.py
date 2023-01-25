@@ -1,7 +1,7 @@
 def main():
     import discord
 
-    client = discord.Client()
+    client = discord.Client(intents=None)
 
     print("Test")
 
